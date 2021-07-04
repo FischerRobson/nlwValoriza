@@ -6,3 +6,4 @@ createConnection();
 
 //yarn typeorm migration:run -> executar migrations
 //yarn typeorm migration:revert -> reverte a ultima migration
+//yarn typeorm entity:create -n NomeDaEntity
